@@ -1,0 +1,2 @@
+LC_ALL=en_US.utf8
+0 * * * * root /bandersnatch/bin/bandersnatch mirror >> /var/log/bandersnatch.log 2>&1
